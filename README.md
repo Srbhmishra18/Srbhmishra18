@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" alt = "gif" src="https://github.com/Srbhmishra18/Srbhmishra18/blob/main/coding%20gif.gif" height="175px"/>
 </a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saurabh Mishra
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Saurabh Mishra,
 ======================================================================================================================================
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Data Science Student
 --------------------
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Data Science Master's candidate aiming to enhance technical abilities and leverage advanced analytics techniques for problem resolution. Showcasing impressive track record of successful software projects with over 3 years of experience in Bosch, have honed my abilities in teamwork and maintaining a laser focus on achievable objectives.
 
