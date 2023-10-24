@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" alt = "gif" src="https://github.com/Srbhmishra18/Srbhmishra18/blob/main/coding%20gif.gif" height="175px"/>
 </a>
 
-<h1 align="center">Hi , I'm Saurabh Mishra </h1>
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></img>, I'm Saurabh Mishra </h1>
+
 Data Science Student
 --------------------
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
