@@ -41,6 +41,17 @@ src="https://img.shields.io/github/followers/Srbhmishra18?logo=github&style=for-
   
 </p>
 
+---
+
+## 🛠️ Skills & Tools
+
+- 🐍 Programming: Python, Java, ABAP, SQL, Numpy, Pandas  
+- 📊 Visualization: Power BI, Tableau, DAX, Power Query, Excel  
+- 📈 Data Science: Data Analytics, Machine Learning, Data Manipulation, Agile methodologies  
+- 🔄 Automation: Power Automate, SharePoint Integration  
+- 🌐 Version Control & Collaboration: GitHub, Agile Practices  
+
+---
 
 ### Socials
 
