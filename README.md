@@ -20,7 +20,7 @@ Welcome to my GitHub! My name is Saurabh Mishra, and I am passionate about using
 
 - 👯 Always excited to collaborate on **data-driven** projects and explore new technologies in **analytics** and **AI**.
 
-- 👨‍💻 All of my projects will be available soon on  **[My Portfolio](https://github.com/beardbaba)**
+- 👨‍💻 All of my projects will be available soon on  **[My Portfolio](https://github.com/Srbhmishra18)**
 
 - 📫 How to reach me **[srbhmishra18@gmail.com](mailto:srbhmishra18@gmail.com)**
 
