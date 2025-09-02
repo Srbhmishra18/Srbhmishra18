@@ -2,32 +2,29 @@
 </a>
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
 
-<h3 align="center">A passionate Data Science Student.</h3>
+<h3 align="center">A passionate Data Analyst.</h3>
 
 
 
 ## 🙋‍♂️ About Me
 
-
-Data Science Master's candidate aiming to enhance technical abilities and leverage advanced analytics techniques for problem resolution. Showcasing impressive track record of successful software projects with over 3 years of experience in Bosch, have honed my abilities in teamwork and maintaining a laser focus on achievable objectives.
+Welcome to my GitHub! My name is Saurabh Mishra, and I am passionate about using data to drive smart decisions and solve real-world problems. With 3+ years of professional experience in software development and analytics, complemented by a recent master's degree in Data Science, I blend hands-on technical skills with analytical creativity.
 
 - 🌍 I'm based in Varanasi, India
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Text & Number Detection in Forms**
+- 🔭 I’m currently contributing as a **Data Analyst** (Working Student) at **Husqvarna Group**.
+  
+- 🌱 Master’s in **Data Science** from **Universität Trier**.
 
-- 🌱 I’m currently learning **Everything**
+- ⚡ Former SAP Developer at Bosch,
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Always excited to collaborate on **data-driven** projects and explore new technologies in **analytics** and **AI**.
 
 - 👨‍💻 All of my projects will be available soon on  **[My Portfolio](https://github.com/beardbaba)**
 
-- 📫 How to reach me **divyank596@gmail.com**
+- 📫 How to reach me **[srbhmishra18@gmail.com](mailto:srbhmishra18@gmail.com)**
 
 - ⚡ Fun fact **I'm an Otaku & an InfoSec Enthusiast**
-* 🌍  I'm based in Varanasi, India
-* ✉️  You can contact me at [srbhmishra18@gmail.com](mailto:srbhmishra18@gmail.com)
-* 🧠  I'm learning Data analytics
-* 🤝  I'm open to collaborating on projects related to Data domain
 
 <a href="https://www.github.com/Srbhmishra18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Srbhmishra18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
