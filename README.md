@@ -10,7 +10,7 @@
 
 Welcome to my GitHub! My name is Saurabh Mishra, and I am passionate about using data to drive smart decisions and solve real-world problems. With 3+ years of professional experience in software development and analytics, complemented by a recent master's degree in Data Science, I blend hands-on technical skills with analytical creativity.
 
-- 🌍 I'm based in Varanasi, India
+- 🌍 I'm based in Trier, Germany
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently contributing as a **Data Analyst** (Working Student) at **Husqvarna Group**.
   
